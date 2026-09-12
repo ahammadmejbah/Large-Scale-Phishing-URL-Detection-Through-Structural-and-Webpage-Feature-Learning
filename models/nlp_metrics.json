@@ -1,0 +1,223 @@
+{
+  "accuracy": 0.7035984647681248,
+  "precision": 0.6625869750212745,
+  "recall": 0.9815721171672228,
+  "f1": 0.7911362142131373,
+  "roc_auc": 0.6650185970608891,
+  "confusion_matrix": [
+    [
+      6708,
+      13481
+    ],
+    [
+      497,
+      26473
+    ]
+  ],
+  "n_train": 188636,
+  "n_test": 47159,
+  "top_terms_legitimate": [
+    {
+      "term": "journal",
+      "weight": 2.550132847454347
+    },
+    {
+      "term": "music",
+      "weight": 2.2838068844094987
+    },
+    {
+      "term": "mag",
+      "weight": 2.273015963923046
+    },
+    {
+      "term": "travel",
+      "weight": 2.2402337460338084
+    },
+    {
+      "term": "museum",
+      "weight": 2.2327052941349517
+    },
+    {
+      "term": "magazine",
+      "weight": 2.2265607626648816
+    },
+    {
+      "term": "uac",
+      "weight": 2.217144172653116
+    },
+    {
+      "term": "muenchen",
+      "weight": 1.9757096444773785
+    },
+    {
+      "term": "paris",
+      "weight": 1.9549342162400283
+    },
+    {
+      "term": "stiftung",
+      "weight": 1.9323358397712935
+    },
+    {
+      "term": "verlag",
+      "weight": 1.9301214892566083
+    },
+    {
+      "term": "ville",
+      "weight": 1.8858693558801387
+    },
+    {
+      "term": "stuttgart",
+      "weight": 1.8433321575351844
+    },
+    {
+      "term": "life",
+      "weight": 1.7390512083952006
+    },
+    {
+      "term": "airport",
+      "weight": 1.7021973382718685
+    },
+    {
+      "term": "guide",
+      "weight": 1.6969447592500198
+    },
+    {
+      "term": "europe",
+      "weight": 1.691803418356038
+    },
+    {
+      "term": "health",
+      "weight": 1.6645224154891793
+    },
+    {
+      "term": "football",
+      "weight": 1.6456501226884679
+    },
+    {
+      "term": "saint",
+      "weight": 1.625843739939567
+    },
+    {
+      "term": "science",
+      "weight": 1.5967709755337622
+    },
+    {
+      "term": "press",
+      "weight": 1.584943692652046
+    },
+    {
+      "term": "les",
+      "weight": 1.580425929112681
+    },
+    {
+      "term": "tourisme",
+      "weight": 1.5693634423375245
+    },
+    {
+      "term": "india",
+      "weight": 1.5375522644626156
+    }
+  ],
+  "top_terms_phishing": [
+    {
+      "term": "firebaseapp",
+      "weight": -8.586955378612489
+    },
+    {
+      "term": "weeblysite",
+      "weight": -7.699444401446601
+    },
+    {
+      "term": "square",
+      "weight": -6.105543133672557
+    },
+    {
+      "term": "amp",
+      "weight": -6.030443554172416
+    },
+    {
+      "term": "web",
+      "weight": -5.668408109364481
+    },
+    {
+      "term": "workers",
+      "weight": -5.634418800006555
+    },
+    {
+      "term": "repl",
+      "weight": -5.530017319035094
+    },
+    {
+      "term": "tw",
+      "weight": -5.502002731355448
+    },
+    {
+      "term": "idrepl",
+      "weight": -5.466745029679497
+    },
+    {
+      "term": "html",
+      "weight": -5.458595970066748
+    },
+    {
+      "term": "dev",
+      "weight": -5.342188170795258
+    },
+    {
+      "term": "xsph",
+      "weight": -4.967341112676627
+    },
+    {
+      "term": "examecom",
+      "weight": -4.803224660965961
+    },
+    {
+      "term": "godaddysites",
+      "weight": -4.626092298572365
+    },
+    {
+      "term": "htm",
+      "weight": -4.500505886437299
+    },
+    {
+      "term": "login",
+      "weight": -4.4642165392749
+    },
+    {
+      "term": "att",
+      "weight": -4.454176220655021
+    },
+    {
+      "term": "webcorewindows",
+      "weight": -4.288442106243781
+    },
+    {
+      "term": "webwave",
+      "weight": -4.284903048263011
+    },
+    {
+      "term": "docsgoogleformsde",
+      "weight": -4.27000559525369
+    },
+    {
+      "term": "plskreghosting",
+      "weight": -4.261064088583299
+    },
+    {
+      "term": "filename",
+      "weight": -4.197895981144783
+    },
+    {
+      "term": "gclid",
+      "weight": -3.9415944383624733
+    },
+    {
+      "term": "cloudflare",
+      "weight": -3.827803833691756
+    },
+    {
+      "term": "mail",
+      "weight": -3.7966958176258414
+    }
+  ]
+}
