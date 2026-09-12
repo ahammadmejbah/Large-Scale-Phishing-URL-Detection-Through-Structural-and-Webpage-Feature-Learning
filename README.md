@@ -1,0 +1,2 @@
+# Large-Scale-Phishing-URL-Detection-Through-Structural-and-Webpage-Feature-Learning
+This study investigates large-scale phishing URL detection using structural characteristics of URLs and webpage-based features to distinguish legitimate websites from phishing websites. Using the PhiUSIIL phishing URL dataset containing 235,795 URLs, the study analyzes URL and webpage characteristics and ML models for phishing classification.
